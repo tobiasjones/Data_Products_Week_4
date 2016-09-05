@@ -1,0 +1,36 @@
+Coursera Data Products Week 4 Project
+========================================================
+author: Toby Jones
+date: September 4, 2016
+autosize: true
+
+Overview
+========================================================
+
+This was built as part of a deliverable for the course Developing Data Products as part of the Coursera Data Science Specialization.
+
+The app developed for the first part of the assignment demo is avalilable at: <https://tobiasint.shinyapps.io/Data_Products_Week_4/>
+
+Source code for ui.R and server.R files are available on the GitHub repo: <https://github.com/b33lie/shiny_app_mtcars/>
+
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
